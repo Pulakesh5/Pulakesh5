@@ -8,7 +8,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pulakesh5&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<div align="center">
+<div>
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulakesh5&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
  
