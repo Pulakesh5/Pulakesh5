@@ -2,7 +2,7 @@
 - 👀 I’m interested in Competitive programming
 - 🌱 I’m currently learning Data Structures & Algorithms, CS undamentals
 - 💞️ I’m looking to collaborate on Android Development project in flutter, ML projects.
-- 📫 How to reach me <a href="#" onclick='window.open("https://www.linkedin.com/in/pulakesh-bag-16a563201/");return false;'>   LinkedIn</a>
+- 📫 How to reach me <a href="#" onclick='window.open("https://www.linkedin.com/in/pulakesh-bag-16a563201/");return false;'> LinkedIn</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pulakesh5&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
