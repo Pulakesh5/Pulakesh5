@@ -6,6 +6,21 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pulakesh5&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulakesh5&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br />
+ 
+  
+  <!--
+  <small>Languages used in my public repos - big fan of C++ and Python</small>
+  -->  
+<br />
+  <br />
+</div>
+
+
 <!---
 Pulakesh5/Pulakesh5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
