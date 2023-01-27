@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Android Development project in flutter, ML projects.
 - 📫 How to reach me <a href="https://www.linkedin.com/in/pulakesh-bag-16a563201/" target="_blank">LinkedIn</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pulakesh5&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pulakesh5&show_icons=true&theme=algolia)]
 
 
 <!---
